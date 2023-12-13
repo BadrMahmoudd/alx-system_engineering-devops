@@ -1,0 +1,10 @@
+aved and the time at which the saved output is reinput to the shell.
+
+       When no arguments are given, the results are unspecified. If a variable assignment  pre‐
+       cedes  the  command name of export but that variable is not also listed as an operand of
+       export, then that variable shall be set in the current shell execution environment after
+       the  completion  of  the  export command, but it is unspecified whether that variable is
+       marked for export.
+
+
+qqq
